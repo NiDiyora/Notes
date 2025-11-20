@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" src="https://instasize.com/p/8fb60f0542eda94d217826412a880e43c5dc9502a38e4ae2ff1b35954f69cd57" /></div>
+<img width="500" src="https://external-black-xxsiurahd5.edgeone.app/Screenshot_20251120_222028-portrait.png" /></div>
 
 ## Notes App Compose 📒
 
